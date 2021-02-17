@@ -2,7 +2,7 @@
 
 Two in one app: Drawing pad with Note-taking section.
 
-![v1](s1.jpeg?raw=true "1") ![v1](s2.jpeg?raw=true "2")
+![v1](s1.jpeg?raw=true "1") ![v1](s2.jpeg?raw=true "2") ![v1](s3.jpeg?raw=true "2") ![v1](s4.jpeg?raw=false "2")
 
 ## Getting Started
 
